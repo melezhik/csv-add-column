@@ -5,7 +5,6 @@ Add Column to end every line in CSV file using awk.
 The author of original awk script is [birei](https://stackoverflow.com/users/773159/birei)
 the code is taken from [StackOverflow](https://stackoverflow.com/users/773159/birei).
 
-
 # INSTALL
 
     $ sparrow plg install csv-add-column
@@ -26,5 +25,3 @@ Alexey Melezhik
 # Prerequisites
 
 Awk should be installed
-
-
